@@ -31,9 +31,12 @@ Tải lên ảnh trang phục: Nhấp vào nút "Chọn ảnh quần áo" và ch
 
 Nhấn "Thử đồ ngay!": Ứng dụng sẽ gửi yêu cầu đến mô hình AI để xử lý. Vui lòng chờ một chút để quá trình hoàn tất.
 
+
 Xem và tải kết quả: Bức ảnh kết quả sẽ hiển thị. Bạn có thể nhấp vào nút "Tải ảnh về" để lưu lại.
 
 Ghi chú
 Ứng dụng này yêu cầu kết nối internet để hoạt động.
 
+
 Mã nguồn sử dụng một API key mẫu. Để sử dụng trong môi trường thực tế, bạn cần thay thế const apiKey = "YOUR_API_KEY_HERE"; bằng API key của riêng bạn.
+[ChuyenDoiSo.pptx](https://github.com/user-attachments/files/21846871/ChuyenDoiSo.pptx)
