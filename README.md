@@ -1,4 +1,3 @@
-# ShopThuDoOnline
 Ứng Dụng Thử Đồ Trực Tuyến với AI
 Giới thiệu
 Đây là một ứng dụng web đơn giản nhưng mạnh mẽ, sử dụng trí tuệ nhân tạo (AI) để cho phép người dùng thử trang phục trực tuyến. Bằng cách tải lên ảnh cá nhân và ảnh một món đồ, ứng dụng sẽ tạo ra một bức ảnh mới, ghép trang phục đó lên người dùng một cách chân thực nhất. Ứng dụng này mang lại trải nghiệm mua sắm và thử đồ thú vị, tiện lợi ngay tại nhà.
